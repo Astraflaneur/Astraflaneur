@@ -1,6 +1,6 @@
 # Hi, I'm Sagar 👋
 
-I’m an AI researcher working **continual learning, efficient deep learning, and quantum-inspired models**. My work blends **theory, algorithms, and systems** from information-theoretic continual learning to GPU-accelerated tensor methods.  
+I’m an AI researcher working on **continual learning, efficient deep learning, and quantum-inspired models**. My focus is on information-theoretic continual learning and high-performance tensor methods on GPUs.
 
 ---
 
