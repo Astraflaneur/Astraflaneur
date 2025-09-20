@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sagar 👋
 
-<!--
-**Astraflaneur/Astraflaneur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI researcher exploring **continual learning, efficient deep learning, and quantum-inspired models**.  
+My work blends **theory, algorithms, and systems** — from information-theoretic continual learning to GPU-accelerated tensor methods.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Interests
+- Continual & lifelong learning  
+- Efficient architectures (compression, pruning, low-rank methods)  
+- Quantum & hypercomplex neural networks  
+- GPU/parallel algorithms  
+
+---
+
+### Selected Projects
+- [InfoGate](https://github.com/...) — Information-theoretic gating for continual learning  
+- [HamQGNN](https://github.com/...) — Hamiltonian-inspired quantum graph neural networks  
+- [Segformer](https://github.com/...) — Cell segmentation with extended analysis tools  
+- [Tensor Decomposition GPU](https://github.com/...) — CUDA-accelerated TT/TR methods  
+
+---
+
+### Get in touch
+- [Google Scholar](https://scholar.google.com/...)  
+- [Twitter/X](https://twitter.com/...)  
+- [Email](mailto:your.email@domain.com)
+
+---
