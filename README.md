@@ -24,5 +24,6 @@ I’m an AI researcher working on **continual learning, efficient deep learning,
 - [Google Scholar](https://scholar.google.com/...)  
 - [Twitter/X](https://twitter.com/...)  
 - [Email](mailto:your.email@domain.com)
+- [Blogs](https://astraflaneur.github.io/studio.notes/)
 
 ---
