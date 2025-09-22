@@ -22,7 +22,7 @@ I’m an AI researcher working on **continual learning, efficient deep learning,
 
 ### Get in touch
 - [Google Scholar](https://scholar.google.com/citations?user=bxO69X0AAAAJ&hl))  
-- [Twitter/X](https://twitter.com/...](https://x.com/SagarPr4kash)  
+- [Twitter/X](https://x.com/SagarPr4kash)  
 - [Email](mailto:sagarbarad118@gmail.com)
 - [Blogs](https://astraflaneur.github.io/studio.notes/)
 
